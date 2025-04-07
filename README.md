@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<!--
+**MananCoder29/MananCoder29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=30&duration=4500&pause=1000&color=CFCBFF&center=true&vCenter=true&width=435&lines=I'm+Ananth+Mahesh+Kashyap" alt="Typing SVG" /></a>
 </h1>
